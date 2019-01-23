@@ -1,6 +1,4 @@
 ## Repository for APC UPS Scripts
-### Going to use this repository for bugs & feature requests.
-To report a bug or feature request, we will use the Issues option, and create a new issue for each bug or feature request.
 
 #### snmp_ups.py: 
 - Will us SNMP to get data from SNMP
